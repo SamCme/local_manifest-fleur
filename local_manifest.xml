@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- Trees -->
-<project path="device/xiaomi/fleur" name="SamCme/device_xiaomi_fleur" remote="github" revision="13-enforcing"/>
-<project path="vendor/xiaomi/fleur" name="SamCme/proprietary_vendor_xiaomi_ims-fleur" remote="github" revision="eleven"/>
+<project path="device/xiaomi/fleur" name="eltxd/device_xiaomi_fleur" remote="github" revision="13-enforcing"/>
+<project path="vendor/xiaomi/fleur" name="eltxd/proprietary_vendor_xiaomi_ims-fleur" remote="github" revision="eleven"/>
 <project path="kernel/xiaomi/fleur" name="MiCode/Xiaomi_Kernel_OpenSource" remote="github" revision="fleur-s-oss"/>
 
 </manifest>
