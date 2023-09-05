@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        
+            <remote name="myself"
+                    fetch="https://github.com/eltxd" />
+                    
+            <remote name="ximi"
+                    fetch="https://github.com/MiCode" />
+<!-- Device Tree -->
+<project path="device/xiaomi/fleur" name="device_xiaomi_fleur" remote="myself" revision="13-enforcing"/>
+
+<!-- Vendor -->
+<project path="vendor/xiaomi/fleur" name="proprietary_vendor_xiaomi_ims-fleur" remote="myself" revision="eleven"/>
+
+<!-- Kernel -->
+<project path="kernel/xiaomi/fleur" name="Xiaomi_Kernel_OpenSource" remote="ximi" revision="fleur-s-oss"/>
+
+</manifest>
