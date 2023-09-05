@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
+<manifest>
+  
 <!-- Trees -->
 <project path="device/xiaomi/fleur" name="eltxd/device_xiaomi_fleur" remote="github" revision="13-enforcing"/>
 <project path="vendor/xiaomi/fleur" name="eltxd/proprietary_vendor_xiaomi_ims-fleur" remote="github" revision="eleven"/>
